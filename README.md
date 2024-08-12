@@ -1,2 +1,2 @@
 # gh-actions-demo
-Github Actions POC
+GitHub Actions POC
